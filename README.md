@@ -23,7 +23,7 @@ Master Developer at [CI&T](https://www.linkedin.com/in/leonardo-bites/);<br>
    <img src="https://github-readme-stats.vercel.app/api?username=Lbites&show_icons=true" width="400" height="120">
    </a>
     <a href="https://github.com/Lbites/hetzner-cloud-api-js">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lbites&repo=hetzner-cloud-api-js"  height="120">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lbites&repo=Lbites"  height="120">
    </a>
  
   
